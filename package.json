@@ -1,0 +1,12 @@
+{
+  "name": "iframefirefoxtest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.1",
+    "useragent": "^2.3.0"
+  }
+}
